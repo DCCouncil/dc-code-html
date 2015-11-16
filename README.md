@@ -1,2 +1,2 @@
 # dc-code-html
-Static html generated from dc-code-xml
+Future home of the static html generated from dc-code-xml
